@@ -1,0 +1,2 @@
+useDynLib(remphasisrpd1, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
